@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for reaching out my Github Profile. I'm still not good at programming, but I want to learn more some programming languages.
+Thanks for reaching out my Github Profile.
 
 Currently, I'm learning **JavaScript**, and some web programming languages such as **HTML**, **CSS** & **PHP** and learning some web frameworks such as **Laravel** and for front-end framework, I'm learning
 **React.js**.
