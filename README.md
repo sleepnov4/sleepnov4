@@ -1,4 +1,4 @@
-### My WakaTime Stats 📊
+![](https://komarev.com/ghpvc/?username=sleepnov4&color=blue)
 [![SleepNov4 WakaTime](https://wakatime.com/badge/user/018d3061-2dbf-49e2-969c-dcc206288aee.svg)](https://wakatime.com/@018d3061-2dbf-49e2-969c-dcc206288aee)
 
 ### My GitHub Stats 📊
